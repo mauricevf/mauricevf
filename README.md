@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a student who wants to specialize in Web Development and Data Science
+## I'm a student who wants to specialize in Web Development and Java Development
 
 ---
 
@@ -16,6 +16,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" style="padding-right:10px;" />
 
 </br>
 
